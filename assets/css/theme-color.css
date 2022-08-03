@@ -1,0 +1,52 @@
+/* default css */
+.custom-navbar.top-nav-collapse .logo a, 
+.custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, 
+.welcome-text h1, 
+.welcome-area .home-arrow a, 
+.social-links a:hover, 
+ul.work-list li.active, 
+.modal-body h3, .project-list li a, 
+.single-stat h2, 
+.contact-form .form-group i.fa, 
+.post-meta span:hover, 
+.widget.category li a:hover, 
+.widget.category li:before, 
+.breadcroumb .active, 
+.comment-reply-link, 
+h4.about-heading span,
+h4.about-heading span,
+.footer p a
+{
+    color: #ff5252;
+}
+.about-area .progress .progress-bar, .about-area .progress .progress-bar span, .single-service .service-overlay ul, .hover-content a, .testimonial-area .owl-dots div.active, .btn.btn-sent, .info-icon, .cta-area a, .read-more-btn, .pagination ul li:hover a, .pagination ul li.active a, .search-form button[type="submit"], .widget.tags a:hover, .btn-comment {
+    background-color: #ff5252;
+}
+.social-links a:hover, .testimonial-area .owl-dots div.active{
+    border: 1px solid #ff5252;
+}
+.about-area .tab .nav-tabs li a.active {
+    border-bottom: 2px solid #ff5252;
+    color:#ff5252;
+}
+
+.single-post-details blockquote{
+    border-left:  5px solid #ff5252;
+}
+.btn.btn-sent:hover, .read-more-btn:hover, .search-form button[type="submit"]:hover, .btn-comment:hover{
+    background-color: #222;
+    color: #fff;
+}
+.hover-content a:hover{
+    background-color: #fff;
+    color: #222;
+}
+.comment-reply-link:hover, .project-list li a:hover{
+    color: #222;
+}
+ @media only screen and (max-width: 767px) {
+     .custom-navbar .logo a {
+         color: #ff5252;
+     }
+ }
+ 

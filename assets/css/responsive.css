@@ -1,0 +1,381 @@
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .about-text {
+        padding: 10px 0;
+    }
+}
+
+
+@media  (max-width: 767px) {
+    .t-author h4 {
+        font-size: 15px;
+    }
+    #counterArea .counter_box {
+        margin-bottom: 30px;
+    }
+    #counterArea {
+        padding: 153px 0px 131px;
+    }
+    #eduandex {
+        padding: 92px 0px 99px;
+    }
+}
+
+
+@media  (min-width: 768px) and (max-width: 991px) {
+    #about.section-padding {
+        padding: 90px 0 75px;
+    }
+    #eduandex {
+        padding: 89px 0px 49px;
+    }
+    #contact {
+        padding: 87px 0px 70px;
+    }
+     #ca-navbar{
+        background: #fff;
+        padding: 10px 0px 10px;
+    }
+    .header .nav-item .nav-link {
+        color: #242424;
+    }
+    
+    .header .nav-item .nav-link.smoth-scroll.active, 
+    .header .nav-item .nav-link:hover{
+        color: #ff5252;
+    }
+    .header .nav-item .nav-link {
+        padding: 7px 15px 7px;
+    }
+    .style.header .nav-item .nav-link.smoth-scroll.active::after,
+    .style.header .nav-item .nav-link:hover::after {
+       display: none;
+    } 
+
+    .main-menu ul.navbar-nav li a {
+	padding: 30px 10px;
+}
+    .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li a {
+	padding: 25px 10px;
+}
+    .welcome-area .home-arrow {
+        bottom: -220px;
+    }
+    .welcome-text h1{
+        font-size: 65px;
+    }
+    .typed-cursor, .element {
+	   font-size: 22px;
+    }
+    
+    .single-stat {
+        margin-bottom: 60px;
+    }
+     .contact-form {
+        margin-bottom: 30px;
+    }
+    .pagination {
+      margin-bottom: 50px;
+      margin-top: 0;
+    }
+    .hover-content h4{
+        font-size: 16px;
+    }
+    .hover-content a {
+        font-size: 16px;
+        height: 40px;
+        line-height: 44px;
+        width: 40px;
+    }
+    .inner {
+        padding: 15px;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #about.section-padding {
+        padding: 100px 0 75px;
+    }
+    #services {
+        padding: 92px 0px 40px;
+    }
+    #work {
+        padding: 93px 0px 69px;
+    }
+    #testimonial {
+        padding: 93px 0px 90px;
+    }
+    #blog {
+        padding: 91px 0px 69px;
+    }
+    #contact {
+        padding: 92px 0px 98px;
+    }
+    body{
+        font-size: 14px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+    }
+    .quotes-content h3 {
+        line-height: 1.2;
+        font-size: 36px;
+    }
+
+    .welcome-text h1 {
+        font-size: 36px;
+    }
+    .typed-cursor, .element {
+	   font-size: 18px;
+    }
+    .welcome-area .home-arrow {
+        bottom: -90px;
+    }
+    .about-area .tab {
+        margin-top: 42px;
+    }
+    .about-area h3 {
+        font-size: 24px;
+    }
+    .modal-body h3 {
+	font-size: 18px;
+    }
+    .modal-body {
+	padding: 0;
+    }
+    .single-stat {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .cta-area h2 {
+	font-size: 32px;
+    }
+    .contact-form {
+        margin-bottom: 30px;
+    }
+    .single-address{
+        margin-bottom: 30px;
+    }
+    .breadcroumb-area h1 {
+        font-size: 32px;
+    }
+    .breadcroumb {
+      font-size: 14px;
+    }
+    .pagination {
+      margin-bottom: 50px;
+      margin-top: 0;
+    }
+    .single-post h2, .single-post-details h2 {
+        font-size: 20px;
+    }
+    .comment-metadata {
+        margin-top: 10px;
+    }
+    .row.replay-area {
+      margin-left: 40px;
+      margin-top: 20px;
+    }
+    .comment-form-wrap {
+      margin-bottom: 50px;
+    }
+    h3.comment-title {
+        font-size: 18px;
+    }
+    .footer-text P {
+        font-size: 14px;
+    }
+    #ca-navbar{
+        background: #fff;
+        padding: 10px 0px 10px;
+    }
+    .header .nav-item .nav-link {
+        color: #242424;
+    }
+    
+    .header .nav-item .nav-link.smoth-scroll.active, 
+    .header .nav-item .nav-link:hover{
+        color: #ff5252;
+    }
+    .header .nav-item .nav-link {
+        padding: 7px 15px 7px;
+    }
+    .style.header .nav-item .nav-link.smoth-scroll.active::after,
+    .style.header .nav-item .nav-link:hover::after {
+       display: none;
+    } 
+    h4.about-heading {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .about-area .nav-tabs {
+        margin-bottom: 37px;
+    }
+
+    .inner {
+        padding: 15px;
+    }
+
+    .single-stat.s3{
+        margin-bottom: 0px;
+    
+    }
+    .single-stat.s4{
+        margin-bottom: 0px;
+    
+    }
+
+    .wow {
+        visibility: visible !important;
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+       }
+    
+}
+
+@media (max-width: 576px) {
+    .tilt{
+        transform: perspective(0px) rotateX(0deg) rotateY(0deg) scale(1)!important; 
+        transition: all 500ms ease 0s;
+    }
+    #about.section-padding {
+        padding: 100px 0 75px;
+    }
+    #services {
+        padding: 92px 0px 40px;
+    }
+    #work {
+        padding: 93px 0px 69px;
+    }
+    #testimonial {
+        padding: 93px 0px 90px;
+    }
+    #blog {
+        padding: 91px 0px 69px;
+    }
+    #contact {
+        padding: 92px 0px 98px;
+    }
+    .welcome-text h1 {
+        font-size: 36px;
+    }
+    .typed-cursor, .element {
+	   font-size: 18px;
+    }
+    .welcome-area .home-arrow {
+        bottom: -90px;
+    }
+    .about-area .tab {
+        margin-top: 42px;
+    }
+    .section-title {
+        margin-bottom: 52px;
+    }
+    .about-area h3 {
+        font-size: 24px;
+    }
+    .modal-body h3 {
+	font-size: 18px;
+    }
+    .modal-body {
+	padding: 0;
+    }
+    .single-stat {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .cta-area h2 {
+	font-size: 32px;
+    }
+    .contact-form {
+        margin-bottom: 30px;
+    }
+    .single-address{
+        margin-bottom: 30px;
+    }
+    .breadcroumb-area h1 {
+        font-size: 32px;
+    }
+    .breadcroumb {
+      font-size: 14px;
+    }
+    .pagination {
+      margin-bottom: 50px;
+      margin-top: 0;
+    }
+    .single-post h2, .single-post-details h2 {
+        font-size: 20px;
+    }
+    .comment-metadata {
+        margin-top: 10px;
+    }
+    .row.replay-area {
+      margin-left: 40px;
+      margin-top: 20px;
+    }
+    .comment-form-wrap {
+      margin-bottom: 50px;
+    }
+    h3.comment-title {
+        font-size: 18px;
+    }
+    .footer-text P {
+        font-size: 14px;
+    }
+#ca-navbar{
+    background: #fff;
+    padding: 10px 0px 10px;
+}
+.header .nav-item .nav-link {
+    color: #242424;
+}
+
+.header .nav-item .nav-link.smoth-scroll.active, 
+.header .nav-item .nav-link:hover{
+    color: #ff5252;
+}
+.header .nav-item .nav-link {
+    padding: 7px 15px 7px;
+}
+.style.header .nav-item .nav-link.smoth-scroll.active::after,
+.style.header .nav-item .nav-link:hover::after {
+   display: none;
+} 
+h4.about-heading {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.about-area .nav-tabs {
+    margin-bottom: 37px;
+}
+.inner {
+    padding: 15px;
+}
+.single-stat.s3{
+    margin-bottom: 0px;
+
+}
+.single-stat.s4{
+    margin-bottom: 0px;
+
+}
+
+.section-title h2 {
+    font-size: 30px;
+}
+.wow {
+    visibility: visible !important;
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+   }
+}
